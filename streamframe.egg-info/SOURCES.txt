@@ -1,0 +1,7 @@
+README.md
+setup.py
+streamframe.egg-info/PKG-INFO
+streamframe.egg-info/SOURCES.txt
+streamframe.egg-info/dependency_links.txt
+streamframe.egg-info/requires.txt
+streamframe.egg-info/top_level.txt

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: streamframe
+Version: 0.1.0
+Summary: A small package for generating stream frames with Jax
+Home-page: https://github.com/jnibauer/streamframe
+Author: Your Name
+Author-email: jnibauer@princeton.edu
+License: MIT
+Requires-Dist: jax
